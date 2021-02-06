@@ -1,4 +1,4 @@
-# Undestanded the concept.. I will write this soon to DaisyX
+# Undestood the concept.. I will write this soon to DaisyX
 
 ## GPT2-Telegram-Chatbot
 
