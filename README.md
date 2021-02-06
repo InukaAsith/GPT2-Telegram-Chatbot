@@ -1,3 +1,5 @@
+# Undestanded the concept.. I will write this soon to DaisyX
+
 ## GPT2-Telegram-Chatbot
 
 A GPT-2 Telegram chatbot that's been relatively tuned for chatting. Feel free to make me PRs and I'll check out your code! The bot isn't 100% accurate all the time (why I coded in a /retry function.)
